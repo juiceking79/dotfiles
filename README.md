@@ -1,1 +1,1 @@
-Just my dotfiles for Hyprland as of 2025-08-24
+Dotfiles for Hyprland as of 2025-08-24
